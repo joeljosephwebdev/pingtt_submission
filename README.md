@@ -45,6 +45,7 @@ I made a few assumptions while working on the project;
 
 * Since it was not specified I assumed I could use any language for my solution.
 * Even though I think we would have greatly benefited in terms of performance by converting the larger json files to database I assumed I should stick to json/mem since that it how the data was provided.
+* Since it was not specified I assumed there was no grace period for leaving early.
 
 ## Wishlist 🌟
 
