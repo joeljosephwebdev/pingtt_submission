@@ -49,7 +49,7 @@ I made a few assumptions while working on the project;
 
 ## Wishlist 🌟
 
-Here are some improvements I would have like to implement but did not have the time;
+Here are some improvements I would have like to implement had I had more time;
 
 * Implement multi-threading to split up the work on the attendance and employee dbs to allow for concurrent processing. This would have seen a drastic improvement to the speed of our program.
 * Add basic error handling. (this would help with troubleshooting)
